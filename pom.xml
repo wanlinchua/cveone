@@ -82,7 +82,7 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-core</artifactId>
-      <version>3.0.0.RELEASE</version> <!-- 2.0.4 -->
+      <version>4.2.17.RELEASE</version> <!-- 2.0.4 -->
     </dependency>
     <dependency>
       <groupId>org.neo4j</groupId>
